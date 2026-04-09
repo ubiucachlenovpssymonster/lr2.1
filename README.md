@@ -77,6 +77,4 @@
 
 ## Ссылка на репозиторий
 
-[https://github.com/email12345email54321-lgtm/pract_m_2_1_ai_analysis](https://github.com/email12345email54321-lgtm/pract_m_2_1_ai_analysis)
-
-*(Замените на реальную ссылку вашего репозитория, если она отличается)*
+https://github.com/ubiucachlenovpssymonster/lr2.1.git
